@@ -2,7 +2,7 @@
 Welcome to my GitHub profile. Here's a little bit about me:
 
 ## My Background
-- I am a University Tutor and Lecturer for Programming with Java and Database Systems (pgSQL). I love sharing my knowledge and helping others learn and grow. 🎓 Currently I am working for [@thomas-schuster](https://github.com/thomas-schuster)
+- I am a University Lecturer for Programming and Laboratory Engineer for distributed systems at [@hochschule-pforzheim](https://github.com/hochschule-pforzheim). I love sharing my knowledge and helping others learn and grow. 🎓 Currently I am working for [@thomas-schuster](https://github.com/thomas-schuster)
 - I am also a Small Business Owner for Project Management and Software Development. I enjoy the challenge of running a business and delivering high-quality projects for my clients. 💻👔
 - As a Consultant for digital signature processes, I have developed a deep understanding of the importance of security and data privacy. 🔐👨‍💼
 
